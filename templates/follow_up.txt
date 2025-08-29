@@ -1,0 +1,8 @@
+Subject: Following up on our previous conversation
+
+Hi {{recipientName | default('there')}},
+
+I wanted to follow up regarding {{topic}}. Please let me know if you had a chance to review or if any clarification would be helpful.
+
+Best,
+{{name}}

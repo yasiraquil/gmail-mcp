@@ -1,0 +1,12 @@
+Subject: Introduction - {{name}}
+
+Dear {{recipientName | default('there')}},
+
+I hope this message finds you well. I'm {{name}}, reaching out to introduce myself and explore potential collaboration opportunities.
+
+{{customMessage}}
+
+Looking forward to staying in touch.
+
+Best regards,
+{{name}}
